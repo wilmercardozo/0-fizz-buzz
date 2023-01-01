@@ -1,0 +1,19 @@
+{
+  "name": "0-fizz-buzz",
+  "version": "1.0.0",
+  "description": "fizzbuzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilmercardozo/0-fizz-buzz.git"
+  },
+  "author": "wilmercardozo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilmercardozo/0-fizz-buzz/issues"
+  },
+  "homepage": "https://github.com/wilmercardozo/0-fizz-buzz#readme"
+}
