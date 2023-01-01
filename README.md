@@ -7,8 +7,8 @@ cada impresión), sustituyendo los siguientes:
 - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
 
 el ejercicio se realizo en los legunjes de programación:
-  - java
-  - python
-  - golang
-  - node js
-  - c++
+  - java --> java -jar ejercicio.jar
+  - python --> python fizzbuz.py
+  - golang --> go runs fizzbuzz.go
+  - node js --> node fizzbuzz.js
+  - c++ --> make main.cpp --> ./main
